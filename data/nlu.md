@@ -1,0 +1,1075 @@
+## intent:affirm
+- yes
+- yep
+- yup
+- yeah
+- yes sure
+- yea sure
+- yep it is
+- sure
+- yeah no problem
+- yeah that's great
+- yes thats why im here
+- yes thank you
+- yes i do
+- yeah thats ok
+- yes that works for me
+- yes i have that
+- yes thats fine
+- yes i have it with me
+- yeah sure
+- yep thats great
+- yea it is
+- yes that would be nice
+- yes i want that
+- yes it is
+- yes go ahead
+- yes nuco
+- yes its correct
+- yeah its fine
+- y
+- cool
+- yup thats fine
+- yep go ahead
+- yes,i can wait
+- fine
+- i do have
+- ok
+- go ahead
+- Yes
+- [Yupp](name)
+- yeh
+- [Ok](name)
+- [Sid](name)
+- yo
+- okay
+- your welcome
+- [Sidd](name)
+- [Siddhanth](name)
+
+## intent:company_name
+- [audi](company)
+- i'm [employed](work) with [nucleus software exports limited](company)
+- [nucleus software exports limited](company)
+- i'm [employed](work) in [nucleus software exports limited](company)
+- [deloitte](company)
+- i am [employed](work) wiih [bugatti](company)
+- i am [employed](work) with [nucleus software exports limited](company)
+- [Nucleus Software Export]{"entity": "company", "value": "Nucleus Software Exports ltd"}
+- [nucleus software](company)
+- [nucleus software exports ltd](company)
+- [nucleus software]{"entity": "company", "value": "Nucleus Software Exports ltd"}
+- i work in [google](company)
+- [Nucleus](company)
+- [abc enterprice](company)
+- [Nucleus Software]{"entity": "company", "value": "Nucleus Software Exports ltd"}
+- [Nucleus software]{"entity": "company", "value": "Nucleus Software Exports ltd"}
+- [google](company)
+- [Microsoft](company)
+- [Nucleus Software]{"entity": "company", "value": "Nucleus Software Exports ltd"}
+
+## intent:cus_salary
+- [350000](salary)
+- [700000](salary)
+- [1100000](salary) rupees
+- [600000](salary) rupees
+- [650000](salary) rupees
+- roughly it is [1100000](salary) rupees
+- [7500000](salary) rupees
+- [750000](salary)
+- it is around [550000](salary) rupees
+- [1200000](salary) rupees
+- [100](salary) rs
+- [700000](salary) inr
+- [5000](salary) inr
+- [360000](salary) inr
+- [9000](salary) rs
+- [1000](salary) rs
+- [300000](salary)
+- Rs [50000](l_amt)
+- [100000](salary) rupees
+- [75000](salary) rupees
+- [2000000](salary) rupees
+- [4000000](salary) rupees
+- [5000000](salary) rupees
+- [400000](salary) rupees
+- [7000000](salary) rupees
+
+## intent:cus_work
+- i'm [employed](work) in a company
+- yes,i'm [employed](work)
+- currently i am [employed](work)
+- i am [employed](work)
+- yes i am [employed](work)
+- [employed](work)
+- iam [employed](work)
+- [employee](work)
+- i am very much [employed](work)
+- I am [employed](work)
+- I am [employed](work)
+
+## intent:cusname
+- [Divyansh](name)
+- [Ashish](name)
+- [Deepak](name)
+- [DIivyansh](name)
+- [Om](name)
+- [Udit](name)
+- [Hari](name)
+- [Anirudh](name)
+- [Shakul](name)
+- [Srishti](name)
+- [shakul](name)
+- [HARSMEEP](name)
+- [abhijay](name)
+- Om Anand
+- [Rahul](name)
+- [Parag](name)
+- [Prakash](name)
+- Om anand
+- [Om](name)
+
+## intent:dateofbirth
+- [03-dec-2020](dob)
+- [03-dec-2019](dob)
+- [03-dec-2018](dob)
+- [03-dec-2017](dob)
+- [03-dec-2016](dob)
+- [03-dec-2015](dob)
+- [03-dec-2014](dob)
+- [03-dec-2013](dob)
+- [03-dec-2012](dob)
+- [03-dec-2011](dob)
+- [03-dec-2010](dob)
+- [03-dec-2009](dob)
+- [03-dec-2008](dob)
+- [03-dec-2007](dob)
+- [03-dec-2006](dob)
+- [03-dec-2005](dob)
+- [03-dec-2004](dob)
+- [03-dec-2003](dob)
+- [03-dec-2002](dob)
+- [03-dec-2001](dob)
+- [03-dec-2000](dob)
+- [03-dec-1999](dob)
+- [03-dec-1998](dob)
+- [03-dec-1997](dob)
+- [03-dec-1996](dob)
+- [03-dec-1995](dob)
+- [03-dec-1994](dob)
+- [03-dec-1993](dob)
+- [03-dec-1992](dob)
+- [03-dec-1991](dob)
+- [03-dec-1990](dob)
+- [12-dec-1989](dob)
+- [03-dec-1988](dob)
+- [12-dec-1987](dob)
+- [12-dec-1986](dob)
+- [12-dec-1985](dob)
+- [12-dec-1984](dob)
+- [12-dec-1983](dob)
+- [12-dec-1982](dob)
+- [12-dec-1981](dob)
+- [12-dec-1980](dob)
+- [12-dec-1979](dob)
+- [12-dec-1978](dob)
+- [12-dec-1977](dob)
+- [12-dec-1976](dob)
+- [12-dec-1975](dob)
+- [12-dec-1974](dob)
+- [12-dec-1973](dob)
+- [12-dec-1972](dob)
+- [12-dec-1971](dob)
+- [12-dec-1970](dob)
+- [12-dec-1969](dob)
+- [12-dec-1968](dob)
+- [12-dec-1967](dob)
+- [12-dec-1966](dob)
+- [12-dec-1965](dob)
+- [12-dec-1964](dob)
+- [12-dec-1963](dob)
+- [12-dec-1962](dob)
+- [12-dec-1961](dob)
+- [12-dec-1960](dob)
+- [03-jan-2020](dob)
+- [03-jan-2019](dob)
+- [03-jan-2018](dob)
+- [03-jan-2017](dob)
+- [03-jan-2016](dob)
+- [03-jan-2015](dob)
+- [03-jan-2014](dob)
+- [03-jan-2013](dob)
+- [03-jan-2012](dob)
+- [03-jan-2011](dob)
+- [03-jan-2010](dob)
+- [03-jan-2009](dob)
+- [03-jan-2008](dob)
+- [03-jan-2007](dob)
+- [03-jan-2006](dob)
+- [03-jan-2005](dob)
+- [03-jan-2004](dob)
+- [03-jan-2003](dob)
+- [03-jan-2002](dob)
+- [03-jan-2001](dob)
+- [03-jan-2000](dob)
+- [03-jan-1999](dob)
+- [03-jan-1998](dob)
+- [03-jan-1997](dob)
+- [03-jan-1996](dob)
+- [03-jan-1995](dob)
+- [03-jan-1994](dob)
+- [03-jan-1993](dob)
+- [03-jan-1992](dob)
+- [03-jan-1991](dob)
+- [03-jan-1990](dob)
+- [12-jan-1989](dob)
+- [03-jan-1988](dob)
+- [12-jan-1987](dob)
+- [12-jan-1986](dob)
+- [12-jan-1985](dob)
+- [12-jan-1984](dob)
+- [12-jan-1983](dob)
+- [12-jan-1982](dob)
+- [12-jan-1981](dob)
+- [12-jan-1980](dob)
+- [12-jan-1979](dob)
+- [12-jan-1978](dob)
+- [12-jan-1977](dob)
+- [12-jan-1976](dob)
+- [12-jan-1975](dob)
+- [12-jan-1974](dob)
+- [12-jan-1973](dob)
+- [12-jan-1972](dob)
+- [12-jan-1971](dob)
+- [12-jan-1970](dob)
+- [12-jan-1969](dob)
+- [12-jan-1968](dob)
+- [12-jan-1967](dob)
+- [12-jan-1966](dob)
+- [12-jan-1965](dob)
+- [12-jan-1964](dob)
+- [12-jan-1963](dob)
+- [12-jan-1962](dob)
+- [12-jan-1961](dob)
+- [12-jan-1960](dob)
+- [03-feb-2020](dob)
+- [03-feb-2019](dob)
+- [03-feb-2018](dob)
+- [03-feb-2017](dob)
+- [03-feb-2016](dob)
+- [03-feb-2015](dob)
+- [03-feb-2014](dob)
+- [03-feb-2013](dob)
+- [03-feb-2012](dob)
+- [03-feb-2011](dob)
+- [03-feb-2010](dob)
+- [03-feb-2009](dob)
+- [03-feb-2008](dob)
+- [03-feb-2007](dob)
+- [03-feb-2006](dob)
+- [03-feb-2005](dob)
+- [03-feb-2004](dob)
+- [03-feb-2003](dob)
+- [03-feb-2002](dob)
+- [03-feb-2001](dob)
+- [03-feb-2000](dob)
+- [03-feb-1999](dob)
+- [03-feb-1998](dob)
+- [03-feb-1997](dob)
+- [03-feb-1996](dob)
+- [03-feb-1995](dob)
+- [03-feb-1994](dob)
+- [03-feb-1993](dob)
+- [03-feb-1992](dob)
+- [03-feb-1991](dob)
+- [03-feb-1990](dob)
+- [12-feb-1989](dob)
+- [03-feb-1988](dob)
+- [12-feb-1987](dob)
+- [12-feb-1986](dob)
+- [12-feb-1985](dob)
+- [12-feb-1984](dob)
+- [12-feb-1983](dob)
+- [12-feb-1982](dob)
+- [12-feb-1981](dob)
+- [12-feb-1980](dob)
+- [12-feb-1979](dob)
+- [12-feb-1978](dob)
+- [12-feb-1977](dob)
+- [12-feb-1976](dob)
+- [12-feb-1975](dob)
+- [12-feb-1974](dob)
+- [12-feb-1973](dob)
+- [12-feb-1972](dob)
+- [12-feb-1971](dob)
+- [12-feb-1970](dob)
+- [12-feb-1969](dob)
+- [12-feb-1968](dob)
+- [12-feb-1967](dob)
+- [12-feb-1966](dob)
+- [12-feb-1965](dob)
+- [12-feb-1964](dob)
+- [12-feb-1963](dob)
+- [12-feb-1962](dob)
+- [12-feb-1961](dob)
+- [12-feb-1960](dob)
+- [03-mar-2020](dob)
+- [03-mar-2019](dob)
+- [03-mar-2018](dob)
+- [03-mar-2017](dob)
+- [03-mar-2016](dob)
+- [03-mar-2015](dob)
+- [03-mar-2014](dob)
+- [03-mar-2013](dob)
+- [03-mar-2012](dob)
+- [03-mar-2011](dob)
+- [03-mar-2010](dob)
+- [03-mar-2009](dob)
+- [03-mar-2008](dob)
+- [03-mar-2007](dob)
+- [03-mar-2006](dob)
+- [03-mar-2005](dob)
+- [03-mar-2004](dob)
+- [03-mar-2003](dob)
+- [03-mar-2002](dob)
+- [03-mar-2001](dob)
+- [03-mar-2000](dob)
+- [03-mar-1999](dob)
+- [03-mar-1998](dob)
+- [03-mar-1997](dob)
+- [03-mar-1996](dob)
+- [03-mar-1995](dob)
+- [03-mar-1994](dob)
+- [03-mar-1993](dob)
+- [03-mar-1992](dob)
+- [03-mar-1991](dob)
+- [03-mar-1990](dob)
+- [12-mar-1989](dob)
+- [03-mar-1988](dob)
+- [12-mar-1987](dob)
+- [12-mar-1986](dob)
+- [12-mar-1985](dob)
+- [12-mar-1984](dob)
+- [12-mar-1983](dob)
+- [12-mar-1982](dob)
+- [12-mar-1981](dob)
+- [12-mar-1980](dob)
+- [12-mar-1979](dob)
+- [12-mar-1978](dob)
+- [12-mar-1977](dob)
+- [12-mar-1976](dob)
+- [12-mar-1975](dob)
+- [12-mar-1974](dob)
+- [12-mar-1973](dob)
+- [12-mar-1972](dob)
+- [12-mar-1971](dob)
+- [12-mar-1970](dob)
+- [12-mar-1969](dob)
+- [12-mar-1968](dob)
+- [12-mar-1967](dob)
+- [12-mar-1966](dob)
+- [12-mar-1965](dob)
+- [12-mar-1964](dob)
+- [12-mar-1963](dob)
+- [12-mar-1962](dob)
+- [12-mar-1961](dob)
+- [12-mar-1960](dob)
+- [03-apr-2020](dob)
+- [03-apr-2019](dob)
+- [03-apr-2018](dob)
+- [03-apr-2017](dob)
+- [03-apr-2016](dob)
+- [03-apr-2015](dob)
+- [03-apr-2014](dob)
+- [03-apr-2013](dob)
+- [03-apr-2012](dob)
+- [03-apr-2011](dob)
+- [03-apr-2010](dob)
+- [03-apr-2009](dob)
+- [03-apr-2008](dob)
+- [03-apr-2007](dob)
+- [03-apr-2006](dob)
+- [03-apr-2005](dob)
+- [03-apr-2004](dob)
+- [03-apr-2003](dob)
+- [03-apr-2002](dob)
+- [03-apr-2001](dob)
+- [03-apr-2000](dob)
+- [03-apr-1999](dob)
+- [03-apr-1998](dob)
+- [03-apr-1997](dob)
+- [03-apr-1996](dob)
+- [03-apr-1995](dob)
+- [03-apr-1994](dob)
+- [03-apr-1993](dob)
+- [03-apr-1992](dob)
+- [03-apr-1991](dob)
+- [03-apr-1990](dob)
+- [12-apr-1989](dob)
+- [03-apr-1988](dob)
+- [12-apr-1987](dob)
+- [12-apr-1986](dob)
+- [12-apr-1985](dob)
+- [12-apr-1984](dob)
+- [12-apr-1983](dob)
+- [12-apr-1982](dob)
+- [12-apr-1981](dob)
+- [12-apr-1980](dob)
+- [12-apr-1979](dob)
+- [12-apr-1978](dob)
+- [12-apr-1977](dob)
+- [12-apr-1976](dob)
+- [12-apr-1975](dob)
+- [12-apr-1974](dob)
+- [12-apr-1973](dob)
+- [12-apr-1972](dob)
+- [12-apr-1971](dob)
+- [12-apr-1970](dob)
+- [12-apr-1969](dob)
+- [12-apr-1968](dob)
+- [12-apr-1967](dob)
+- [12-apr-1966](dob)
+- [12-apr-1965](dob)
+- [12-apr-1964](dob)
+- [12-apr-1963](dob)
+- [12-apr-1962](dob)
+- [12-apr-1961](dob)
+- [12-apr-1960](dob)
+- [03-may-2020](dob)
+- [03-may-2019](dob)
+- [03-may-2018](dob)
+- [03-may-2017](dob)
+- [03-may-2016](dob)
+- [03-may-2015](dob)
+- [03-may-2014](dob)
+- [03-may-2013](dob)
+- [03-may-2012](dob)
+- [03-may-2011](dob)
+- [03-may-2010](dob)
+- [03-may-2009](dob)
+- [03-may-2008](dob)
+- [03-may-2007](dob)
+- [03-may-2006](dob)
+- [03-may-2005](dob)
+- [03-may-2004](dob)
+- [03-may-2003](dob)
+- [03-may-2002](dob)
+- [03-may-2001](dob)
+- [03-may-2000](dob)
+- [03-may-1999](dob)
+- [03-may-1998](dob)
+- [03-may-1997](dob)
+- [03-may-1996](dob)
+- [03-may-1995](dob)
+- [03-may-1994](dob)
+- [03-may-1993](dob)
+- [03-may-1992](dob)
+- [03-may-1991](dob)
+- [03-may-1990](dob)
+- [12-may-1989](dob)
+- [03-may-1988](dob)
+- [12-may-1987](dob)
+- [12-may-1986](dob)
+- [12-may-1985](dob)
+- [12-may-1984](dob)
+- [12-may-1983](dob)
+- [12-may-1982](dob)
+- [12-may-1981](dob)
+- [12-may-1980](dob)
+- [12-may-1979](dob)
+- [12-may-1978](dob)
+- [12-may-1977](dob)
+- [12-may-1976](dob)
+- [12-may-1975](dob)
+- [12-may-1974](dob)
+- [12-may-1973](dob)
+- [12-may-1972](dob)
+- [12-may-1971](dob)
+- [12-may-1970](dob)
+- [12-may-1969](dob)
+- [12-may-1968](dob)
+- [12-may-1967](dob)
+- [12-may-1966](dob)
+- [12-may-1965](dob)
+- [12-may-1964](dob)
+- [12-may-1963](dob)
+- [12-may-1962](dob)
+- [12-may-1961](dob)
+- [12-may-1960](dob)
+- [03-jun-2020](dob)
+- [03-jun-2019](dob)
+- [03-jun-2018](dob)
+- [03-jun-2017](dob)
+- [03-jun-2016](dob)
+- [03-jun-2015](dob)
+- [03-jun-2014](dob)
+- [03-jun-2013](dob)
+- [03-jun-2012](dob)
+- [03-jun-2011](dob)
+- [03-jun-2010](dob)
+- [03-jun-2009](dob)
+- [03-jun-2008](dob)
+- [03-jun-2007](dob)
+- [03-jun-2006](dob)
+- [03-jun-2005](dob)
+- [03-jun-2004](dob)
+- [03-jun-2003](dob)
+- [03-jun-2002](dob)
+- [03-jun-2001](dob)
+- [03-jun-2000](dob)
+- [03-jun-1999](dob)
+- [03-jun-1998](dob)
+- [03-jun-1997](dob)
+- [03-jun-1996](dob)
+- [03-jun-1995](dob)
+- [03-jun-1994](dob)
+- [03-jun-1993](dob)
+- [03-jun-1992](dob)
+- [03-jun-1991](dob)
+- [03-jun-1990](dob)
+- [12-jun-1989](dob)
+- [03-jun-1988](dob)
+- [12-jun-1987](dob)
+- [12-jun-1986](dob)
+- [12-jun-1985](dob)
+- [12-jun-1984](dob)
+- [12-jun-1983](dob)
+- [12-jun-1982](dob)
+- [12-jun-1981](dob)
+- [12-jun-1980](dob)
+- [12-jun-1979](dob)
+- [12-jun-1978](dob)
+- [12-jun-1977](dob)
+- [12-jun-1976](dob)
+- [12-jun-1975](dob)
+- [12-jun-1974](dob)
+- [12-jun-1973](dob)
+- [12-jun-1972](dob)
+- [12-jun-1971](dob)
+- [12-jun-1970](dob)
+- [12-jun-1969](dob)
+- [12-jun-1968](dob)
+- [12-jun-1967](dob)
+- [12-jun-1966](dob)
+- [12-jun-1965](dob)
+- [12-jun-1964](dob)
+- [12-jun-1963](dob)
+- [12-jun-1962](dob)
+- [12-jun-1961](dob)
+- [12-jun-1960](dob)
+- [03-jul-2020](dob)
+- [03-jul-2019](dob)
+- [03-jul-2018](dob)
+- [03-jul-2017](dob)
+- [03-jul-2016](dob)
+- [03-jul-2015](dob)
+- [03-jul-2014](dob)
+- [03-jul-2013](dob)
+- [03-jul-2012](dob)
+- [03-jul-2011](dob)
+- [03-jul-2010](dob)
+- [03-jul-2009](dob)
+- [03-jul-2008](dob)
+- [03-jul-2007](dob)
+- [03-jul-2006](dob)
+- [03-jul-2005](dob)
+- [03-jul-2004](dob)
+- [03-jul-2003](dob)
+- [03-jul-2002](dob)
+- [03-jul-2001](dob)
+- [03-jul-2000](dob)
+- [03-jul-1999](dob)
+- [03-jul-1998](dob)
+- [03-jul-1997](dob)
+- [03-jul-1996](dob)
+- [03-jul-1995](dob)
+- [03-jul-1994](dob)
+- [03-jul-1993](dob)
+- [03-jul-1992](dob)
+- [03-jul-1991](dob)
+- [03-jul-1990](dob)
+- [12-jul-1989](dob)
+- [03-jul-1988](dob)
+- [12-jul-1987](dob)
+- [12-jul-1986](dob)
+- [12-jul-1985](dob)
+- [12-jul-1984](dob)
+- [12-jul-1983](dob)
+- [12-jul-1982](dob)
+- [12-jul-1981](dob)
+- [12-jul-1980](dob)
+- [12-jul-1979](dob)
+- [12-jul-1978](dob)
+- [12-jul-1977](dob)
+- [12-jul-1976](dob)
+- [12-jul-1975](dob)
+- [12-jul-1974](dob)
+- [12-jul-1973](dob)
+- [12-jul-1972](dob)
+- [12-jul-1971](dob)
+- [12-jul-1970](dob)
+- [12-jul-1969](dob)
+- [12-jul-1968](dob)
+- [12-jul-1967](dob)
+- [12-jul-1966](dob)
+- [12-jul-1965](dob)
+- [12-jul-1964](dob)
+- [12-jul-1963](dob)
+- [12-jul-1962](dob)
+- [12-jul-1961](dob)
+- [12-jul-1960](dob)
+- [03-aug-2020](dob)
+- [03-aug-2019](dob)
+- [03-aug-2018](dob)
+- [03-aug-2017](dob)
+- [03-aug-2016](dob)
+- [03-aug-2015](dob)
+- [03-aug-2014](dob)
+- [03-aug-2013](dob)
+- [03-aug-2012](dob)
+- [03-aug-2011](dob)
+- [03-aug-2010](dob)
+- [03-aug-2009](dob)
+- [03-aug-2008](dob)
+- [03-aug-2007](dob)
+- [03-aug-2006](dob)
+- [03-aug-2005](dob)
+- [03-aug-2004](dob)
+- [03-aug-2003](dob)
+- [03-aug-2002](dob)
+- [03-aug-2001](dob)
+- [03-aug-2000](dob)
+- [03-aug-1999](dob)
+- [03-aug-1998](dob)
+- [03-aug-1997](dob)
+- [03-aug-1996](dob)
+- [03-aug-1995](dob)
+- [03-aug-1994](dob)
+- [03-aug-1993](dob)
+- [03-aug-1992](dob)
+- [03-aug-1991](dob)
+- [03-aug-1990](dob)
+- [12-aug-1989](dob)
+- [03-aug-1988](dob)
+- [12-aug-1987](dob)
+- [12-aug-1986](dob)
+- [12-aug-1985](dob)
+- [12-aug-1984](dob)
+- [12-aug-1983](dob)
+- [12-aug-1982](dob)
+- [12-aug-1981](dob)
+- [12-aug-1980](dob)
+- [12-aug-1979](dob)
+- [12-aug-1978](dob)
+- [12-aug-1977](dob)
+- [12-aug-1976](dob)
+- [12-aug-1975](dob)
+- [12-aug-1974](dob)
+- [12-aug-1973](dob)
+- [12-aug-1972](dob)
+- [12-aug-1971](dob)
+- [12-aug-1970](dob)
+- [12-aug-1969](dob)
+- [12-aug-1968](dob)
+- [12-aug-1967](dob)
+- [12-aug-1966](dob)
+- [12-aug-1965](dob)
+- [12-aug-1964](dob)
+- [12-aug-1963](dob)
+- [12-aug-1962](dob)
+- [12-aug-1961](dob)
+- [12-aug-1960](dob)
+- [03-sept-2020](dob)
+- [03-sept-2019](dob)
+- [03-sept-2018](dob)
+- [03-sept-2017](dob)
+- [03-sept-2016](dob)
+- [03-sept-2015](dob)
+- [03-sept-2014](dob)
+- [03-sept-2013](dob)
+- [03-sept-2012](dob)
+- [03-sept-2011](dob)
+- [03-sept-2010](dob)
+- [03-sept-2009](dob)
+- [03-sept-2008](dob)
+- [03-sept-2007](dob)
+- [03-sept-2006](dob)
+- [03-sept-2005](dob)
+- [03-sept-2004](dob)
+- [03-sept-2003](dob)
+- [03-sept-2002](dob)
+- [03-sept-2001](dob)
+- [03-sept-2000](dob)
+- [03-sept-1999](dob)
+- [03-sept-1998](dob)
+- [03-sept-1997](dob)
+- [03-sept-1996](dob)
+- [03-sept-1995](dob)
+- [03-sept-1994](dob)
+- [03-sept-1993](dob)
+- [03-sept-1992](dob)
+- [03-sept-1991](dob)
+- [03-sept-1990](dob)
+- [12-sept-1989](dob)
+- [03-sept-1988](dob)
+- [12-sept-1987](dob)
+- [12-sept-1986](dob)
+- [12-sept-1985](dob)
+- [12-sept-1984](dob)
+- [12-sept-1983](dob)
+- [12-sept-1982](dob)
+- [12-sept-1981](dob)
+- [12-sept-1980](dob)
+- [12-sept-1979](dob)
+- [12-sept-1978](dob)
+- [12-sept-1977](dob)
+- [12-sept-1976](dob)
+- [12-sept-1975](dob)
+- [12-sept-1974](dob)
+- [12-sept-1973](dob)
+- [12-sept-1972](dob)
+- [12-sept-1971](dob)
+- [12-sept-1970](dob)
+- [12-sept-1969](dob)
+- [12-sept-1968](dob)
+- [12-sept-1967](dob)
+- [12-sept-1966](dob)
+- [12-sept-1965](dob)
+- [12-sept-1964](dob)
+- [12-sept-1963](dob)
+- [12-sept-1962](dob)
+- [12-sept-1961](dob)
+- [12-sept-1960](dob)
+- [03-oct-2020](dob)
+- [03-oct-2019](dob)
+- [03-oct-2018](dob)
+- [03-oct-2017](dob)
+- [03-oct-2016](dob)
+- [03-oct-2015](dob)
+- [03-oct-2014](dob)
+- [03-oct-2013](dob)
+- [03-oct-2012](dob)
+- [03-oct-2011](dob)
+- [03-oct-2010](dob)
+- [03-oct-2009](dob)
+- [03-oct-2008](dob)
+- [03-oct-2007](dob)
+- [03-oct-2006](dob)
+- [03-oct-2005](dob)
+- [03-oct-2004](dob)
+- [03-oct-2003](dob)
+- [03-oct-2002](dob)
+- [03-oct-2001](dob)
+- [03-oct-2000](dob)
+- [03-oct-1999](dob)
+- [03-oct-1998](dob)
+- [03-oct-1997](dob)
+- [03-oct-1996](dob)
+- [03-oct-1995](dob)
+- [03-oct-1994](dob)
+- [03-oct-1993](dob)
+- [03-oct-1992](dob)
+- [03-oct-1991](dob)
+- [03-oct-1990](dob)
+- [12-oct-1989](dob)
+- [03-oct-1988](dob)
+- [12-oct-1987](dob)
+- [12-oct-1986](dob)
+- [12-oct-1985](dob)
+- [12-oct-1984](dob)
+- [12-oct-1983](dob)
+- [12-oct-1982](dob)
+- [12-oct-1981](dob)
+- [12-oct-1980](dob)
+- [12-oct-1979](dob)
+- [12-oct-1978](dob)
+- [12-oct-1977](dob)
+- [12-oct-1976](dob)
+- [12-oct-1975](dob)
+- [12-oct-1974](dob)
+- [12-oct-1973](dob)
+- [12-oct-1972](dob)
+- [12-oct-1971](dob)
+- [12-oct-1970](dob)
+- [12-oct-1969](dob)
+- [12-oct-1968](dob)
+- [12-oct-1967](dob)
+- [12-oct-1966](dob)
+- [12-oct-1965](dob)
+- [12-oct-1964](dob)
+- [12-oct-1963](dob)
+- [12-oct-1962](dob)
+- [12-oct-1961](dob)
+- [12-oct-1960](dob)
+- [03-nov-2020](dob)
+- [03-nov-2019](dob)
+- [03-nov-2018](dob)
+- [03-nov-2017](dob)
+- [03-nov-2016](dob)
+- [03-nov-2015](dob)
+- [03-nov-2014](dob)
+- [03-nov-2013](dob)
+- [03-nov-2012](dob)
+- [03-nov-2011](dob)
+- [03-nov-2010](dob)
+- [03-nov-2009](dob)
+- [03-nov-2008](dob)
+- [03-nov-2007](dob)
+- [03-nov-2006](dob)
+- [03-nov-2005](dob)
+- [03-nov-2004](dob)
+- [03-nov-2003](dob)
+- [03-nov-2002](dob)
+- [03-nov-2001](dob)
+- [03-nov-2000](dob)
+- [03-nov-1999](dob)
+- [03-nov-1998](dob)
+- [03-nov-1997](dob)
+- [03-nov-1996](dob)
+- [03-nov-1995](dob)
+- [03-nov-1994](dob)
+- [03-nov-1993](dob)
+- [03-nov-1992](dob)
+- [03-nov-1991](dob)
+- [03-nov-1990](dob)
+- [12-nov-1989](dob)
+- [03-nov-1988](dob)
+- [12-nov-1987](dob)
+- [12-nov-1986](dob)
+- [12-nov-1985](dob)
+- [12-nov-1984](dob)
+- [12-nov-1983](dob)
+- [12-nov-1982](dob)
+- [12-nov-1981](dob)
+- [12-nov-1980](dob)
+- [12-nov-1979](dob)
+- [12-nov-1978](dob)
+- [12-nov-1977](dob)
+- [12-nov-1976](dob)
+- [12-nov-1975](dob)
+- [12-nov-1974](dob)
+- [12-nov-1973](dob)
+- [12-nov-1972](dob)
+- [12-nov-1971](dob)
+- [12-nov-1970](dob)
+- [12-nov-1969](dob)
+- [12-nov-1968](dob)
+- [12-nov-1967](dob)
+- [12-nov-1966](dob)
+- [12-nov-1965](dob)
+- [12-nov-1964](dob)
+- [12-nov-1963](dob)
+- [12-nov-1962](dob)
+- [12-nov-1961](dob)
+- [12-nov-1960](dob)
+- [19-Sept-1976](dob)
+- [06-apr-1997](dob)
+- [25-jun-1996](dob)
+- [19-dec-1997](dob)
+- [15-feb-2019](dob)
+- [31-may-1990](dob)
+- 02-abc-5656
+- [29-jan-1996](dob)
+- [07-Nov-1988](name)
+- [05-jan-1990](dob)
+- [10-July-1999](dob)
+- [25-April-2005](dob)
+- [12-June-1997](dob)
+- [13-October-1997](dob)
+- [14-December-1965](dob)
+- [26-March-1990](dob)
+- [13 October 1998](dob)
+- [13-October-1998](dob)
+- [16-November-1985](dob)
+
+## intent:deny
+- no
+- no its not
+- n
+- i dont have right now
+- nope
+- [Done](name)
+
+## intent:document_type
+- [Driving License](doc_type)
+- [Passport](doc_type)
+- [Aadhar Card](doc_type)
+- [Driving License](doc_type)
+
+## intent:goodbye
+- thank you
+- thank you so much
+- thank you nuco
+- thanks for the help
+- thank you nuco for the help
+- thank you for that
+- Thanks See you bye bye
+- thankyou
+- thanks
+- thanku
+- thank u
+- ok,maybe later
+- Bye
+- bye
+- ok thank you
+
+## intent:greet
+- heyy
+- hey
+- hii
+- hi
+- heyyy
+- heyyyyy
+- helloo
+- hello
+- hi sexy
+- hi nuco
+- hello Nuco
+- hiii
+- hellooo
+- hi baby
+- hey there
+- hi ms. nuco
+- hiiii
+- hey sexy
+- namastay
+- goodmorning nuco
+- hiiiiii
+- Hi
+
+## intent:loan_amt
+- I need rs. [1300000](l_amt) as loan
+- i want [1200000](l_amt) rupees as loan
+- Rs. [500000](l_amt)
+- [15000](l_amt)
+- i need a loan of [200000](l_amt)
+- i need [145000](l_amt)
+- i need a loan of [20000](l_amt)
+- i need approximately [50000](l_amt) rupees
+- i need a loan of [150000](l_amt) rupees
+- i need [20000](l_amt)
+- i require a loan of [200000](l_amt) rupees
+- i need a loan of [350000](l_amt)
+- i need a loan amounting to rupees [120000](l_amt)
+- i need a loan of approximatly [1500000](l_amt)
+- i need a loan of [200000](l_amt) rupeed
+- i require about [200000](l_amt) rupees
+- [1600000](l_amt)
+- i want [350000](l_amt) rupees
+- about [2000000](l_amt) rupees
+- i need about rupees [1500000](l_amt)
+- i need about [300000](l_amt) rupees for loan
+- i need [200000](l_amt) rupees
+- i need [1800000](l_amt) rupees
+- i require [40000](l_amt) rupees
+- i need approximately [300000](l_amt) rupees
+- i need [250000](l_amt) rupeees
+- i require [1700000](l_amt) rupees
+- i require a loan of [100000](l_amt) inr
+- i need [500000](l_amt) inr
+- [10](l_amt) inr
+- [100000](l_amt) inr
+- [1000000](l_amt)
+- [1000](monthly_pay)
+- [80](l_amt) inr
+- [100000](l_amt)
+- [8000](monthly_pay)
+- [500000](l_amt)
+- [Rs.1000000](salary)
+- [20000](monthly_pay)
+- [700000](l_amt)
+- [600000](l_amt)
+- [5000](monthly_pay)
+- [800000](l_amt)
+- [6000](monthly_pay)
+- [4000000](l_amt)
+- [70000](monthly_pay)
+- [900000](l_amt)
+- [90000](l_amt)
+- [100000](l_amt)
+- [30000](monthly_pay)
+
+## intent:loan_type
+- I need a loan to buy a [house](loantype)
+- [car](loantype)
+- loan to start a [business](loantype)
+- loan for buying [electronics](loantype)
+- i need a [car](loantype) loan
+- yes, i need a [car](loantype) loan
+- loan for buying a [house](loantype)
+- i need a loan for a [car](loantype)
+- [house](loantype)
+- i'm here for a [house](loantype) loan
+- [business](loantype)
+- i need a to buy a [car](loantype)
+- [marriage](loantype)
+- [electronics](loantype)
+- yes i need a [car](loantype) loan
+- [festival](loantype)
+- [Kumar](name)
+- [house](loantype)
+
+## intent:monthlypay
+- i can pay rs. [10000](monthly_pay)
+- i can pay [8000](monthly_pay) rupees at the most
+- [5000](monthly_pay) rupees
+- i would be able to pay around [1000](monthly_pay) rupees
+- i can pay [4000](monthly_pay) monthly
+- i can pay around [2000](monthly_pay)
+- i can pay around [1000](monthly_pay)
+- i can pay about [2000](monthly_pay) per month
+- i can pay [1200](monthly_pay) rupees
+- i can pay [1000](monthly_pay)
+- i can pay [2000](monthly_pay) rupees
+- i can pay [2000](monthly_pay) rupees per month
+- i can repay [2000](monthly_pay) rupees per month
+- i can pay around [8000](monthly_pay) rupees
+- i can pay approximately [3000](monthly_pay) per month
+- i can pay about [10000](monthly_pay)
+- i can repay [7000](monthly_pay) per month
+- i can pay [10000](monthly_pay) rupees
+- i can arrange [10000](monthly_pay) monthly
+- i can pay around [7000](monthly_pay) rupees
+- i can repay [5000](monthly_pay) rupees
+- [10000](monthly_pay) rupees
+- i can repay [2000](monthly_pay) rupees
+- i can pay [4000](monthly_pay) rupees
+- i can repay about [8000](monthly_pay) rupees
+- i can repay [8000](monthly_pay) monthly
+- [8000](monthly_pay) inr
+- i can repay [5000](monthly_pay) inr
+- [2](monthly_pay) inr
+- [3000](monthly_pay) inr
+- [1000](monthly_pay) rupees
+- [1000](monthly_pay) rs
+- [3](monthly_pay) rs
+- [200](monthly_pay)
+- [20000](monthly_pay)
+- [40000](monthly_pay)
+
+## intent:need_loan
+- i need a loan
+- i'm here for a loan
+- i require a loan
+- i want a loan
+- can you assist me for a loan
+- what are the loan policies
+- i want to avail loan
+- loan
+- I want to initiate a loan
+- I want a loan
+- [Arjun](name)
+- i need loan
+- I need a loan
+- want loan
+
+## intent:weather
+- how is the weather
+- how is the climate
+
+## synonym:Nucleus Software Exports ltd
+- Nucleus Software Export
+- nucleus software
+- Nucleus Software
+- Nucleus software
+- Nucleus Software Exports

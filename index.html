@@ -1,0 +1,20 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="./room.css">
+  <!--<link rel="stylesheet" type="text/css" href="./Chatroom.css">-->
+  <link rel="stylesheet" type="text/css" href="./index.css">
+</head>
+<body>
+  <div class="chat-container"></div>
+  <script src="./chat.js"></script>
+  <script type="text/javascript">
+    var chatroom = new window.Chatroom({
+      host: "http://localhost:5005",
+      title: "Talk to Nuco",
+      container: document.querySelector(".chat-container"),
+      welcomeMessage: "Hi, I am Nuco! Tap the mic button to speak.",
+      speechRecognition: "en-US",
+      voiceLang: "en-US"
+    });
+    chatroom.openChat();
+  </script>
+</body>
